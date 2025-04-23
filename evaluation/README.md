@@ -1,4 +1,4 @@
-# Evaluation Scripts for Coherence, Fluency, and Relevance
+# Evaluation Scripts
 
 This directory contains evaluation scripts for assessing the **coherence**, **fluency**, **relevance**, and **cosine similarity** of generated text.
 
